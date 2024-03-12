@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **tkusak27/tkusak27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### About Me
+### About Me
 My name is Tom Kusak and I am currently a junior computer science student at the University of Notre Dame.
 
-#### Currently
+### Projects
 Currently I am working on my own personal website - www.tomkusak.com.
 
 
