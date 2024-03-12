@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+#### About Me
 My name is Tom Kusak and I am currently a junior computer science student at the University of Notre Dame.
+
+#### Currently
+Currently I am working on my own personal website - www.tomkusak.com.
+
+
