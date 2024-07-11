@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 My name is Tom Kusak and I am currently a junior computer science student at the University of Notre Dame.
 
 ### Projects
-Currently I am working on a data science final project - using machine learning and artificial intelligence to answer the question: can we predict whether a flight will be delayed? [flight_delays](https://github.com/tkusak27/flight_delays)
+Currently I am working on a data science final project - using machine learning and artificial intelligence to answer the question: can we predict whether a flight will be delayed? --> [flight_delays](https://github.com/tkusak27/flight_delays)
 
 
