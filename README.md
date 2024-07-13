@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About Me
-My name is Tom Kusak and I am currently a junior computer science student at the University of Notre Dame.
+My name is Tom Kusak and I am rising senior computer science student at the University of Notre Dame.
 
 ### Projects
 Currently I am working on a data science final - using machine learning to answer the question: can we predict whether a given flight will be delayed? ([flight_delays](https://github.com/tkusak27/flight_delays))
